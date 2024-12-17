@@ -1,30 +1,31 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marouane Bouglace
-=========================================================================================================================================
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-Future Digital Creator | Student at CMC RSK | Passionate About Tech and Innovation
-----------------------------------------------------------------------------------
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://BouglaceMarouane.io)
+<h1 align="center">Hi 👋, I'm Marouane Bouglace</h1>
+<h3 align="center">Future Digital Creator | Student at CMC RSK | Passionate About Tech and Innovation</h3>
+<p align="center">I'm a digital development student at CMC RSK, passionate about emerging technologies and creating innovative solutions. I specialize in exploring digital tools to design modern applications, interactive platforms, and digital projects that meet current needs. Always eager to learn, I focus on improving my skills in programming and digital solution integration.</p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
-I'm a digital development student at CMC RSK, passionate about emerging technologies and creating innovative solutions. I specialize in exploring digital tools to design modern applications, interactive platforms, and digital projects that meet current needs. Always eager to learn, I focus on improving my skills in programming and digital solution integration.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bouglacemarouane&label=Profile%20views&color=0e75b6&style=flat" alt="bouglacemarouane" /> </p>
 
-* 🌍  I'm based in TAMESNA
-* ✉️  You can contact me at [bouglacemarouane@gmail.com](mailto:bouglacemarouane@gmail.com)
-* 🧠  I'm learning OOP, Front-end, back-end.
-* ⚡  I love something named Football .
+- 🌍 I'm based in **TAMESNA**
 
-### Skills
+- 🌱 I’m currently learning **POO, Front-end, Python.**
 
+- 💬 Ask me about **HTML, CSS.**
+
+- 📫 How to reach me **bouglacemarouane@gmail.com**
+
+- ⚡ Fun fact **I love something named Football .**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://linkedin.com/in/marouane bouglace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marouane bouglace" height="30" width="40" /></a>
 </p>
 
-### Socials
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="left"> <a href="https://www.github.com/BouglaceMarouane" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/marouane-bouglace-68b17333b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bouglacemarouane&show_icons=true&locale=en&layout=compact" alt="bouglacemarouane" /></p>
 
-### Badges
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bouglacemarouane&show_icons=true&locale=en" alt="bouglacemarouane" /></p>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/BouglaceMarouane"><img src="https://github-readme-stats.vercel.app/api?username=BouglaceMarouane&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="BouglaceMarouane's GitHub stats" /></a>
-
-<a href="http://www.github.com/BouglaceMarouane"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BouglaceMarouane&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bouglacemarouane&" alt="bouglacemarouane" /></p>

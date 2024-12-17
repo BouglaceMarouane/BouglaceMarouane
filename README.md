@@ -41,9 +41,10 @@
 ### 📊 Stats and Activity
 
   <h3>🔥 Streak Stats</h3>
-
+  
   <p>
-    <a href="https://github.com/BouglaceMarouane/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BouglaceMarouane's streak" src="https://github-readme-streak-stats eight.vercel.app/?user=BouglaceMarouane&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="BouglaceMarouane's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=BouglaceMarouane&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>

@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marouane Bouglace
 =========================================================================================================================================
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 Future Digital Creator | Student at CMC RSK | Passionate About Tech and Innovation
 ----------------------------------------------------------------------------------
 

@@ -15,9 +15,11 @@
 
 - 💬 Ask me about **HTML, CSS.**
 
-- 📫 How to reach me **bouglacemarouane@gmail.com**
+- 👯 I collaborate with teams and love to contribute to open-source projects.
 
-- ⚡ fact **I love something named Football .**
+- 📫 How to reach me **bouglacemarouane@gmail.com**
+  
+- ⚡ Fun fact: I enjoy exploring new technologies and experimenting with different frameworks.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -30,6 +30,11 @@
 
 ### 🧰 Languages and Tools
 
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,html,css,github,git,react,arduino,c,py,bootstrap,nodejs,mysql,php,discord,pycharm,tailwind,figma,&theme=dark&perline=12"\>
+</p>
+
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 <img align="left" alt="css" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 <img align="left" alt="bootstrap" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">

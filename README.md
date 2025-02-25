@@ -31,8 +31,7 @@
   <h3>🧰 Languages and Tools</h3>
   <p align="center" style="padding-right:10px">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,pyqt,flask,php,mysql,git,github,linux,anaconda,sublime,vscode,pycharm,&theme=dark&perline=12"\>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg&theme=dark"\>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,py,qt,flask,php,mysql,git,github,linux,anaconda,sublime,vscode,pycharm,&theme=dark&perline=12"\>
   </p>
       
 ---

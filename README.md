@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Js, Php, Python.**
 
-- 💬 Ask me about **HTML, CSS.**
+- 💬 Ask me about **HTML, CSS, bootstrap.**
 
 - 👯 I collaborate with teams and love to contribute to open-source projects.
 

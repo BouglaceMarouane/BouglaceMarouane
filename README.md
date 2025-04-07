@@ -82,6 +82,42 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BouglaceMarouane&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" width="360" />
    </a>
 </div>
+
+<details>
+  <summary><b>⚙️ Spotify</b></summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <!-- Spotify GitHub Profile -->
+          <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bzye3bxbglc4i75xf5woju65hq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify GitHub Profile" width="240" />
+          </a>
+        </td>
+        <td align="center">
+          <!-- Spotify Recently Played -->
+          <a href="https://open.spotify.com/user/31bzye3bxbglc4i75xf5woju65hq" target="_blank">
+            <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzye3bxbglc4i75xf5woju65hq" alt="Spotify Recently Played" width="400" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/bouglacemarouane/bouglacemarouane/output/snake.svg" alt="Snake animation" />
+</p>
+
+###
+
+<div align="center">
+   <p>Do you want to contact me for collaboration opportunities? ⟶ 
+      <a href="mailto:bouglacemarouane@gmail.com">Contact Details</a><br> 
+      <b>You can make my day better by starring some of the repositories!</b>
+   </p>
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>

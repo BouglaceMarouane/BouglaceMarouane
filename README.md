@@ -8,10 +8,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/marouane-bouglace/" target="_blank">
+  <a href="https://www.linkedin.com/in/marouane-bouglace/" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="LinkedIn" />
   </a>
-  <a href="mailto:bouglacemarouane@gmail.com" target="_blank">
+  <a href="mailto:bouglacemarouane@gmail.com" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335296.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/marwane.2x/" target="_blank">
@@ -48,7 +48,7 @@
 
 - 👯 I collaborate with teams and love to contribute<br> to open-source projects.
 
-- 📫 How to reach me **bouglacemarouane@gmail.com**<br><br>
+- 📫 How to reach me **bouglacemarouane@gmail.com**<br><br><br>
   
 - ⚡ Fun fact: <b>The Facebook</b> "Like" button was coded in just one day by an intern(stagiaire). Today, it generates billions of interactions every single day. Never underestimate a small project — it might just change the world.
 

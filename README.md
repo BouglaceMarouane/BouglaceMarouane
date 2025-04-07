@@ -24,9 +24,17 @@
 - ⚡ Fun fact: I enjoy exploring new technologies and experimenting with different frameworks.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/marouane-bouglace-68b17333b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="marouane bouglace" height="30" width="40" /></a>
-</p>
+<div align="left" style="margin-bottom: 20px;">
+  <a href="https://www.linkedin.com/in/marouane-bouglace/" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bouglacemarouane@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335296.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/marwane.2x/" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335273.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Instagram" />
+  </a>
+</div>
 
 ---
 

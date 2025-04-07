@@ -8,11 +8,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center" style="margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/marouane-bouglace/" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/marouane-bouglace/" target="_blank" >
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" style="margin-right: 20px;" width="52" height="52" alt="LinkedIn" />
   </a>
-  <a href="mailto:bouglacemarouane@gmail.com" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn-icons-png.freepik.com/256/2335/2335296.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Gmail" />
+  <a href="mailto:bouglacemarouane@gmail.com" target="_blank" >
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335296.png?ga=GA1.1.361340327.1735012906" style="margin-right: 20px;" width="52" height="52" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/marwane.2x/" target="_blank">
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335273.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Instagram" />
@@ -27,8 +27,9 @@
     <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
   </a>
 </div> -->
-
-<img style="margin-top: 70px;" align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<p style="margin-top: 70px;">
+<img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+</p>
 
 <p align="center">
     <a>

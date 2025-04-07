@@ -28,7 +28,7 @@
   </a>
 </div> -->
 
-<img style="margin-top:20px;" align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img  align="right" alt="Coding" width="400" height="400px" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="center">
     <a>
@@ -46,8 +46,7 @@
 
 - 💬 Ask me about **HTML, CSS, bootstrap.**
 
-- 👯 I collaborate with teams and love
-to contribute to open-source projects.
+- 👯 I collaborate with teams and love to contribute to open-source projects.
 
 - 📫 How to reach me **bouglacemarouane@gmail.com**
 

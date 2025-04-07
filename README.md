@@ -6,7 +6,7 @@
 
 [![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://BouglaceMarouane.io)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/marouane-bouglace/" target="_blank">
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="LinkedIn" />
@@ -21,7 +21,14 @@
 
 ---
 
-<!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">-->
+<!--<h3 align="center">Certification Badges:</h3>
+<div style="display:flex; align-items:center; gap: 10px;" align="center">
+  <a href="https://www.credly.com/badges/37d07a2e-5ae7-4963-9a74-2a8cdc208234/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
+  </a>
+</div> -->
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="center">
     <a>
@@ -32,13 +39,6 @@
     </a>
 </p>
 
-<div align="center" style="margin-bottom: 20px;">
-   <p>
-      <a href="https://github.com/bouglacemarouane/github-profile-trophy">
-         <img src="https://github-profile-trophy.vercel.app/?username=bouglacemarouane&title=-Issues" alt="bouglacemarouane" />
-      </a>
-   </p>
-</div>
 
 - 🌍 I'm based in **TAMESNA**
 

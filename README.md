@@ -52,7 +52,7 @@
 
 - 📫 How to reach me **bouglacemarouane@gmail.com**
   
-- ⚡ Fun fact: <b>The Facebook</b> "Like" button was built in a<br> day by an intern. Now? Billions of clicks daily. Small projects can make a big impact.
+- ⚡ Fun fact: **Facebook's** "Like" button was made in a day by an intern. Now it powers billions of clicks.
 
 ---
 

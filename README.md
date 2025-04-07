@@ -83,30 +83,8 @@
    </a>
 </div>
 
-<details>
-  <summary><b>⚙️ Spotify</b></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <!-- Spotify GitHub Profile -->
-          <a href="https://github.com/kittinan/spotify-github-profile" target="_blank">
-            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bzye3bxbglc4i75xf5woju65hq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify GitHub Profile" width="240" />
-          </a>
-        </td>
-        <td align="center">
-          <!-- Spotify Recently Played -->
-          <a href="https://open.spotify.com/user/31bzye3bxbglc4i75xf5woju65hq" target="_blank">
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=31bzye3bxbglc4i75xf5woju65hq" alt="Spotify Recently Played" width="400" />
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/bouglacemarouane/bouglacemarouane/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xdweeb/xdweeb/output/snake.svg" alt="Snake animation" />
 </p>
 
 ###

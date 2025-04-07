@@ -11,6 +11,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bouglacemarouane&label=Profile%20views&color=0e75b6&style=flat" alt="bouglacemarouane" /> </p>
 
+<div align="center" style="margin-bottom: 20px;">
+   <p>
+      <a href="https://github.com/bouglacemarouane/github-profile-trophy">
+         <img src="https://github-profile-trophy.vercel.app/?username=bouglacemarouane&title=-Issues" alt="bouglacemarouane" />
+      </a>
+   </p>
+</div>
+
 - 🌍 I'm based in **TAMESNA**
 
 - 🌱 I’m currently learning **Js, Php, Python.**

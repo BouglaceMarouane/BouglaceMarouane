@@ -40,6 +40,7 @@
 </p>
 
 <br>
+
 - 🌍 I'm based in **TAMESNA**
 
 - 🌱 I’m currently learning **Js, Php, Python.**

@@ -84,7 +84,7 @@
 </div>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/BouglaceMarouane/xdweeb/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xdweeb/BouglaceMarouane/output/snake.svg" alt="Snake animation" />
 </p>
 
 ###

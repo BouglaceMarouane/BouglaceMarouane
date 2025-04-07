@@ -47,7 +47,7 @@
 - 💬 Ask me about **HTML, CSS, bootstrap.**
 
 - 👯 I collaborate with teams and love
-  to contribute to open-source projects.
+to contribute to open-source projects.
 
 - 📫 How to reach me **bouglacemarouane@gmail.com**
 

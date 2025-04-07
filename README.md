@@ -81,7 +81,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BouglaceMarouane&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" width="360" />
    </a>
 </div>
-  <br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+<br/>
 
 
 

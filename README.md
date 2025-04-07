@@ -51,7 +51,7 @@
 
 - 📫 How to reach me **bouglacemarouane@gmail.com**
   
-- ⚡ Fun fact: <b>The Facebook</b> "Like" button was coded in just one day by an intern(stagiaire). Today, it generates billions of interactions every single day. Never underestimate a small project — it might just change the world.
+- ⚡ Fun fact: <b>The Facebook</b> "Like" button was built in a day by an intern. Now? Billions of clicks daily. Small projects can make a big impact.
 
 ---
 

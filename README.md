@@ -84,7 +84,7 @@
 </div>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/xdweeb/xdweeb/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/BouglaceMarouane/BouglaceMarouane/output/github-contribution-grid-snake-dark.svg)
 </p>
 
 ###

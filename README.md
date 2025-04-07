@@ -48,7 +48,7 @@
 
 - 👯 I collaborate with teams and love to contribute<br> to open-source projects.
 
-- 📫 How to reach me **bouglacemarouane@gmail.com**<br>
+- 📫 How to reach me **bouglacemarouane@gmail.com**<br><br>
   
 - ⚡ Fun fact: <b>The Facebook</b> "Like" button was coded in just one day by an intern(stagiaire). Today, it generates billions of interactions every single day. Never underestimate a small project — it might just change the world.
 

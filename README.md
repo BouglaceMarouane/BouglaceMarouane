@@ -24,7 +24,7 @@
 - ⚡ Fun fact: I enjoy exploring new technologies and experimenting with different frameworks.
 
 <h3 align="left">Connect with me:</h3>
-<div align="left" style="margin-bottom: 20px;">
+<div align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/marouane-bouglace/" target="_blank">
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="LinkedIn" />
   </a>

@@ -28,7 +28,7 @@
   </a>
 </div> -->
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+<img style="margin-top:20px" align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="center">
     <a>
@@ -51,7 +51,7 @@
 - 📫 How to reach me **bouglacemarouane@gmail.com**
 
   
-- ⚡ Fun fact: The Facebook "Like" button was coded in just one day by an intern(stagiaire). Today, it generates billions of interactions every single day. Never underestimate a small project — it might just change the world.
+- ⚡ Fun fact: <b>The Facebook</b> "Like" button was coded in just one day by an intern(stagiaire). Today, it generates billions of interactions every single day. Never underestimate a small project — it might just change the world.
 
 ---
 

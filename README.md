@@ -83,9 +83,7 @@
    </a>
 </div>
 
-<p align="center">
 ![Snake animation](https://raw.githubusercontent.com/BouglaceMarouane/BouglaceMarouane/output/github-contribution-grid-snake-dark.svg)
-</p>
 
 ###
 

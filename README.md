@@ -1,5 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://BouglaceMarouane.io)
-<h1 align="center">Hi 👋, I'm Marouane Bouglace</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marouane BOUGLACE!;" />
+</h1>
 <h3 align="center">Future Developer | Student at CMC RSK | Passionate About Tech and Innovation</h3>
 <p align="center">I'm a first year digital development student at CMC RSK, passionate about emerging technologies and creating innovative solutions. I specialize in exploring digital tools to design modern applications, interactive platforms, and digital projects that meet current needs. Always eager to learn, I focus on improving my skills in programming and digital solution integration.</p>
 

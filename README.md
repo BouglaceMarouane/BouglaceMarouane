@@ -39,7 +39,6 @@
     </a>
 </p>
 
-<br>
 
 - 🌍 I'm based in **TAMESNA**
 

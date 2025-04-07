@@ -9,10 +9,10 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/marouane-bouglace/" target="_blank" >
-    <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" style="margin-right: 20px;" width="52" height="52" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="LinkedIn" />
   </a>
   <a href="mailto:bouglacemarouane@gmail.com" target="_blank" >
-    <img src="https://cdn-icons-png.freepik.com/256/2335/2335296.png?ga=GA1.1.361340327.1735012906" style="margin-right: 20px;" width="52" height="52" alt="Gmail" />
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335296.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/marwane.2x/" target="_blank">
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335273.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Instagram" />
@@ -27,8 +27,9 @@
     <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
   </a>
 </div> -->
-<p style="margin-top: 70px;">
-<img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+
+<p>
+    <img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 </p>
 
 <p align="center">
@@ -65,7 +66,7 @@
 
 ### 📊 Stats and Activity
 
-  <h3>🔥 Streak Stats</h3>
+  <h3 align="center">🔥 Streak Stats</h3>
   
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -73,7 +74,7 @@
     </a>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3 align="center">💻 GitHub Profile Stats</h3>
 
   <div align="center" style="display: flex; justify-content: center;">
   <a target="blank" href="https://github.com/anuraghazra/github-readme-stats"><img alt="BouglaceMarouane's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=BouglaceMarouane&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="400" /></a>

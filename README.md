@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **bouglacemarouane@gmail.com**
   
-- ⚡ Fun fact: I enjoy exploring new technologies and experimenting with different frameworks.
+- ⚡ Fun fact: The Facebook "Like" button was coded in just one day by an intern(stagiaire). Today, it generates billions of interactions every single day. Never underestimate a small project — it might just change the world.
 
 <h3 align="left">Connect with me:</h3>
 <div align="center" style="margin-bottom: 20px;">

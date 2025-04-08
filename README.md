@@ -77,14 +77,19 @@
 <h3 align="center">💻 GitHub Profile Stats</h3>
 
 <div align="center" style="display: flex; justify-content: center;">
-    <a target="blank" href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=BouglaceMarouane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BouglaceMarouane&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+    <!--<a target="blank" href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="BouglaceMarouane's Github Stats" 
              src="https://github-readme-stats.vercel.app/api/?username=BouglaceMarouane&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="400" />
     </a>
     <a target="blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BouglaceMarouane&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" width="360" />
     </a>
-</div>
+</div>-->
 
 
 ###

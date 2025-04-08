@@ -83,6 +83,8 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/BouglaceMarouane/BouglaceMarouane/output/snake.svg" alt="Snake animation" />
+
 <div align="center">
    <p>Do you want to contact me for collaboration opportunities? ⟶ 
       <a href="mailto:bouglacemarouane@gmail.com">Contact Details</a><br>

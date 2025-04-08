@@ -87,7 +87,8 @@
 
 <div align="center">
    <p>Do you want to contact me for collaboration opportunities? ⟶ 
-      <a href="mailto:bouglacemarouane@gmail.com">Contact Details</a><br> 
+      <a href="mailto:bouglacemarouane@gmail.com">Contact Details</a><br>
+       ---
       <b>You can make my day better by starring 🌟 some of the repositories!</b>
    </p>
 </div>

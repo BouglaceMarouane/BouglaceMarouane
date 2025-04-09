@@ -10,7 +10,7 @@
 
 <p align="center">I'm a first year digital development student at CMC RSK, passionate about emerging technologies and creating innovative solutions. I specialize in exploring digital tools to design modern applications, interactive platforms, and digital projects that meet current needs. Always eager to learn, I focus on improving my skills in programming and digital solution integration.</p>
 
-[![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://BouglaceMarouane.io)
+[![MasterHead](https://github.com/user-attachments/assets/1146ab68-d416-494f-9d41-5d1d99f39397)](https://BouglaceMarouane.io)
 
 <h3 align="center">Connect with me:</h3>
 <div align="center" style="margin-bottom: 20px;">

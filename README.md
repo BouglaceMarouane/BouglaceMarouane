@@ -34,7 +34,7 @@
   </a>
 </div> -->
 
-<p align="center">
+<p align="left" style="margin-top: 20px;">
     <a>
         <img src="https://komarev.com/ghpvc/?username=bouglacemarouane&label=Profile%20views&color=0e75b6&style=flat" alt="bouglacemarouane" /> 
     </a>
@@ -46,7 +46,6 @@
 <p style="margin-bottom: 20px;">
     <img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 </p>
-<br>
 
 - 🌍 I'm based in **TAMESNA**
 

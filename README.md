@@ -34,6 +34,10 @@
   </a>
 </div> -->
 
+<p>
+    <img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+</p>
+
 <p align="left">
     <a>
         <img src="https://komarev.com/ghpvc/?username=bouglacemarouane&label=Profile%20views&color=0e75b6&style=flat" alt="bouglacemarouane" /> 
@@ -41,10 +45,6 @@
     <a>
         <img src="https://img.shields.io/github/stars/bouglacemarouane" alt="bouglacemarouane" />
     </a>
-</p>
-
-<p style="margin-bottom: 20px;">
-    <img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 </p>
 
 - 🌍 I'm based in **TAMESNA**

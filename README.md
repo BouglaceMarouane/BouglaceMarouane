@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg?"/>
+  <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg?";/>
 </div>
 
 <h3 align="center">Future Developer | Student at CMC RSK | Passionate About Tech and Innovation</h3>

@@ -21,7 +21,7 @@
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335296.png?ga=GA1.1.361340327.1735012906" width="52" height="52" style="margin-right: 10px;" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/marwane.2x/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="52" height="52" alt="Instagram" />
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335273.png?ga=GA1.1.361340327.1735012906" width="52" height="52" alt="Instagram" />
   </a>
 </div>
 

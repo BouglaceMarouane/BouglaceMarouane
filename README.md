@@ -14,7 +14,7 @@ I'm a first-year Digital Development student at CMC RSK, passionate about emergi
 
 <!-- MasterHead -->
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/BouglaceMarouane/assets/1146ab68-d416-494f-9d41-5d1d99f39397" alt="MasterHead" />
+  <img src="https://github.com/user-attachments/assets/1146ab68-d416-494f-9d41-5d1d99f39397" alt="MasterHead" />
 </p>
 
 ---

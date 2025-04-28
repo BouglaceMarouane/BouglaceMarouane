@@ -12,7 +12,7 @@
 
 <!-- MasterHead -->
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/BouglaceMarouane/assets/1146ab68-d416-494f-9d41-5d1d99f39397.png" alt="MasterHead" />
+  <img src="https://github.com/BouglaceMarouane/BouglaceMarouane/assets/1146ab68-d416-494f-9d41-5d1d99f39397.jpg" alt="MasterHead" />
 </p>
 
 <h3 align="center">Connect with me:</h3>

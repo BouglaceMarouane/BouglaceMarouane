@@ -15,7 +15,7 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/marouane-bouglace/" target="_blank" >
-    <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" style="margin-right: 50px;" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.freepik.com/256/2335/2335321.png?ga=GA1.1.361340327.1735012906" width="52" height="52" style="margin-right: 10px;" alt="LinkedIn" />
   </a>
   <a href="mailto:bouglacemarouane@gmail.com" target="_blank" >
     <img src="https://cdn-icons-png.freepik.com/256/2335/2335296.png?ga=GA1.1.361340327.1735012906" width="52" height="52" style="margin-right: 10px;" alt="Gmail" />

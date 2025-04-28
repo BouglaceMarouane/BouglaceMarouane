@@ -81,9 +81,9 @@
 <h3 align="center">💻 GitHub Profile Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BouglaceMarouane&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="473" style="margin-right: 10px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BouglaceMarouane&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="453" style="margin-right: 10px;" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouglaceMarouane&layout=compact&langs_count=6&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="360" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouglaceMarouane&layout=compact&langs_count=6&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="340" alt="Top Languages" />
 </p>
 
 ---

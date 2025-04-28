@@ -27,13 +27,6 @@
 
 ---
 
-<h3 align="center">Certification Badges:</h3>
-<div style="display:flex; align-items:center; gap: 10px;" align="center">
-  <a href="https://www.credly.com/badges/37d07a2e-5ae7-4963-9a74-2a8cdc208234/public_url" target="_blank">
-    <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
-  </a>
-</div>
-
 <p>
     <img align="right" alt="Coding" width="400"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 </p>

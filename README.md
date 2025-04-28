@@ -89,9 +89,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BouglaceMarouane&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450" alt="GitHub Stats" />
-</p>
 
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=BouglaceMarouane&theme=dracula&hide_border=false&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" width="450" alt="GitHub Streak" />
 </p>
 

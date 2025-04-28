@@ -88,7 +88,9 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/BouglaceMarouane/BouglaceMarouane/output/snake.svg" alt="Snake animation" />
+<p align="center">
+    <img src="https://raw.githubusercontent.com/BouglaceMarouane/BouglaceMarouane/output/snake.svg" alt="Snake animation" />
+</p>
 
 <div align="center">
    <p>Do you want to contact me for collaboration opportunities? ⟶ 

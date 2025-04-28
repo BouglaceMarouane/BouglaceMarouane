@@ -71,7 +71,7 @@
 
 ### 📊 Stats and Activity
 
-  <h3 align="center">🔥 Streak Stats</h3>
+  <!--<h3 align="center">🔥 Streak Stats</h3>
   
   <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -84,6 +84,19 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BouglaceMarouane&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="473" style="margin-right: 10px;" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BouglaceMarouane&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false&order=2&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="360" alt="languages graph" />
+</p>-->
+<h2 align="center">💻 GitHub Profile Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BouglaceMarouane&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="450" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BouglaceMarouane&theme=dracula&hide_border=false&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" width="450" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouglaceMarouane&layout=compact&langs_count=6&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="400" alt="Top Languages" />
 </p>
 
 

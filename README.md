@@ -28,7 +28,7 @@
 ---
 
 <p style="margin-bottom: 20px;">
-    <img align="right" alt="Coding" width="400" height='20'  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+    <img align="right" alt="Coding" width="350"  src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 </p>
 
 <!--<p align="left">

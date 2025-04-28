@@ -15,10 +15,10 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center" style="margin-bottom: 20px;">
   <a href="https://www.linkedin.com/in/marouane-bouglace/" target="_blank" >
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="52" alt="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="52" height="52" style="margin-right: 10px;" alt="LinkedIn" />
   </a>
   <a href="mailto:bouglacemarouane@gmail.com" target="_blank" >
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="52" height="52" alt="Gmail" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="52" height="52" style="margin-right: 10px;" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/marwane.2x/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="52" height="52" alt="Instagram" />

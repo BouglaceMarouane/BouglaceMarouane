@@ -40,9 +40,6 @@
 
 <p align="left">
     <a>
-        <img src="https://komarev.com/ghpvc/?username=bouglacemarouane&label=Profile%20views&color=0e75b6&style=flat" alt="bouglacemarouane" /> 
-    </a>
-    <a>
         <img src="https://img.shields.io/github/stars/bouglacemarouane" alt="bouglacemarouane" />
     </a>
 </p>

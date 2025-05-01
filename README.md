@@ -64,7 +64,7 @@
 <h3 align="center">🔥 Streak Stats</h3>
   
   <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BouglaceMarouane&theme=dracula&hide_border=false&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" width="450" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=BouglaceMarouane&theme=dracula&hide_border=false&background=1F222E&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" width="450" alt="GitHub Streak"/>
     </a>
   </p>
 

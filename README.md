@@ -1,9 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D310&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hello+There!+✨;+I'm+Marouane+Bouglace;+Welcome+to+my+GitHub+account;"/>
 </h1>
+
 <!--<div align="center">
   <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg?"/>
 </div>-->
+
 <h3 align="center">Future Developer | Student at CMC RSK | Passionate About Tech and Innovation</h3>
 
 <p align="center">I'm a first year digital development student at CMC RSK, passionate about emerging technologies and creating innovative solutions. I specialize in exploring digital tools to design modern applications, interactive platforms, and digital projects that meet current needs. Always eager to learn, I focus on improving my skills in programming and digital solution integration.</p>

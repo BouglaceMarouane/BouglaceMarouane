@@ -5,12 +5,6 @@
 <p align="center">
   <!-- Profile Counter -->
   <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg" alt="Visitor Counter"/>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BouglaceMarouane&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouglaceMarouane&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 

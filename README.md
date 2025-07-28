@@ -3,8 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg" alt="Profile Counter"/>
+  <!-- Profile Counter -->
+  <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg" alt="Visitor Counter"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BouglaceMarouane&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouglaceMarouane&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
 
 <h3 align="center">Future Developer | Student at CMC RSK | Passionate About Tech and Innovation</h3>
 

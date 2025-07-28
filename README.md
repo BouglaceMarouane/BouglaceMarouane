@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D310&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hello+There!+✨;+I'm+Marouane+Bouglace;+Welcome+to+my+GitHub+account;"/>
 </h1>
 
-![Profile Counter](https://profile-counter.glitch.me/BouglaceMarouane/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg" alt="Profile Counter"/>
+</p>
 
 <h3 align="center">Future Developer | Student at CMC RSK | Passionate About Tech and Innovation</h3>
 

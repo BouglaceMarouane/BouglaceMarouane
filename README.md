@@ -39,7 +39,7 @@
 
 - 🌍 I'm based in **TAMESNA**
 
--🔭 I’m currently working on **My own Website.**
+- 🔭 I’m currently working on **My own Website.**
 
 - 🌱 Expanding my skills in Flutter, kotlin, and modern web technologies.
 

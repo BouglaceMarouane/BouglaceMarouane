@@ -49,8 +49,6 @@
   
 - ⚡ Fun fact: The Android mascot is called **“Bugdroid”** — a playful symbol that<br> reflects the creativity behind mobile development, the field I’m passionate about!
 
-<br>
-
 ---
 
   <h3>🧰 Languages and Tools</h3>

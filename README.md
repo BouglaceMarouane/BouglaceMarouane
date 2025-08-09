@@ -45,7 +45,7 @@
 
 - 📫 How to reach me **bouglacemarouane@gmail.com**
   
-- ⚡ Fun fact: The Android mascot is called **“Bugdroid”** — a playful symbol<br> that reflects the creativity behind mobile development, the field I’m passionate about!
+- ⚡ Fun fact: The Android mascot is called **“Bugdroid”** — a playful symbol that<br> reflects the creativity behind mobile development, the field I’m passionate about!
 
 <br>
 

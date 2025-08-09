@@ -39,6 +39,8 @@
 
 - 🌍 I'm based in **TAMESNA**
 
+-🔭 I’m currently working on **My own Website.**
+
 - 🌱 Expanding my skills in Flutter, kotlin, and modern web technologies.
 
 - 👯 I collaborate with teams and love to contribute<br> to open-source projects.

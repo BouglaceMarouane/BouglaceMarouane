@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00D310&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Hello+There!+✨;+I'm+Marouane+Bouglace;+Welcome+to+my+GitHub+account;"/>
 </h1>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg?"/>
-</div>
+</div>-->
 
 <h3 align="center">Aspiring Mobile Developer | 2nd Year Student at CMC RSK | ALX ProDev Front-End Student | Passionate About Tech and Innovation</h3>
 
@@ -39,15 +39,13 @@
 
 - 🌍 I'm based in **TAMESNA**
 
-- 🌱 I’m currently learning **Js, Php, Python.**
-
-- 💬 Ask me about **HTML, CSS, bootstrap.**
+- 🌱 Expanding my skills in Flutter, kotlin, and modern web technologies.
 
 - 👯 I collaborate with teams and love to contribute<br> to open-source projects.
 
 - 📫 How to reach me **bouglacemarouane@gmail.com**
   
-- ⚡ Fun fact: **Facebook's** "Like" button was made in a day by an intern. Now it powers billions of clicks.
+- ⚡ Fun fact: The Android mascot is called **“Bugdroid”** — a playful symbol that reflects the creativity behind mobile development, the field I’m passionate about!
 
 ---
 

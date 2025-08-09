@@ -8,7 +8,7 @@
 
 <h3 align="center">Aspiring Mobile Developer | 2nd Year Student at CMC RSK | ALX ProDev Front-End Student | Passionate About Tech and Innovation</h3>
 
-<p align="center">Passionate about crafting clean, efficient mobile applications and exploring emerging technologies. Continuously learning and building projects that solve real-world problems. Eager to share code, collaborate, and grow as a developer. Focused on enhancing programming skills and integrating digital solutions effectively.</p>
+<p align="center">Passionate about building clean, efficient mobile applications and exploring emerging technologies. Continuously learning and creating projects that solve real-world problems. Eager to share code, collaborate, and grow as a developer, with a focus on enhancing programming skills and integrating effective digital solutions.</p>
 
 [![MasterHead](https://github.com/user-attachments/assets/1146ab68-d416-494f-9d41-5d1d99f39397)](https://BouglaceMarouane.io)
 

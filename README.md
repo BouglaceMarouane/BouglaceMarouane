@@ -78,11 +78,14 @@
 
 ---
 
-### Favorite Quote :book:
+## 📖 Favorite Quote
 
-> "Work in silence, code with sincerity, and trust that Allah executes the best outcomes for those who are patient and consistent."
->
-> — Your Name
+<div align="center">
+
+> <sup>“</sup> <em>Work in silence, stay humble, code with sincerity, and trust that Allah executes the best outcomes for those who are patient and consistent.</em> <sup>”</sup>  
+> — <strong>Said by my mom</strong>
+
+</div>
 
 ---
 

@@ -43,11 +43,11 @@
 
 - 🌱 Expanding my skills in Flutter, kotlin, and modern web technologies.
 
-- 👯 I collaborate with teams and love to contribute<br> to open-source projects.
+- 👯 I collaborate with teams and love to contribute to open-source projects.
 
 - 📫 How to reach me **bouglacemarouane@gmail.com**
   
-- ⚡ Fun fact: The Android mascot is called **“Bugdroid”** — a playful symbol that reflects the creativity behind mobile development, the field I’m passionate about!
+- ⚡ Fun fact: The Android mascot is called **“Bugdroid”** — a playful symbol that reflects the creativity behind mobile development,<br> the field I’m passionate about!
 
 ---
 

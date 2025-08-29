@@ -6,7 +6,7 @@
   <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg?"/>
 </div>-->
 
-<h3 align="center">Aspiring Mobile Developer | 2nd Year Student at CMC RSK | ALX ProDev Front-End Student | Passionate About Tech and Innovation</h3>
+<h3 align="center">Aspiring Mobile & Web Developer | 2nd Year Student at CMC RSK | ALX ProDev Front-End Student | Passionate About Tech and Innovation</h3>
 
 <p align="center">Passionate about building clean, efficient mobile applications and exploring emerging technologies. Continuously learning and creating projects that solve real-world problems. Eager to share code, collaborate, and grow as a developer, with a focus on enhancing programming skills and integrating effective digital solutions.</p>
 

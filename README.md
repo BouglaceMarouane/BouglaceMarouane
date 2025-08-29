@@ -78,6 +78,14 @@
 
 ---
 
+### Favorite Quote :book:
+
+> "Work in silence, code with sincerity, and trust that Allah executes the best outcomes for those who are patient and consistent."
+>
+> — Your Name
+
+---
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/BouglaceMarouane/BouglaceMarouane/output/snake.svg" alt="Snake animation" />
 </p>

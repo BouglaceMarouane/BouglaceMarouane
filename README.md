@@ -82,7 +82,7 @@
 
 <div align="center">
 
-> <sup>“</sup> <em>Work in silence, stay humble, code with sincerity, and trust that Allah executes the best outcomes for those who are patient and consistent.</em> <sup>”</sup>  
+> <sup>“</sup> <em>Work in silence, stay humble, code with sincerity, and trust that Allah executes the best outcomes<br> for those who are patient and consistent.</em> <sup>”</sup>  
 > — <strong>Said by my mom</strong>
 
 </div>

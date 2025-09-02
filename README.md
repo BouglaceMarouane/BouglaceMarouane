@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BouglaceMarouane&theme=tokyonight&no-frame=true&column=10&margin-w=10&title=Stars,Repositories,Commits,Followers,Experience,Issues,PullRequest,Reviews,MultiLanguage,Contributions" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BouglaceMarouane&theme=dracula&no-frame=true&column=10&margin-w=10&title=Stars,Repositories,Commits,Followers,Experience,Issues,PullRequest,Reviews,MultiLanguage,Contributions" alt="trophies"/>
 </p>
 
 

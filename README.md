@@ -13,13 +13,10 @@
 [![MasterHead](https://github.com/user-attachments/assets/1146ab68-d416-494f-9d41-5d1d99f39397)](https://BouglaceMarouane.io)
 
 
-<div align="center" style="margin-bottom: 20px;">
-   <p>
-      <a href="https://github.com/BouglaceMarouane/github-profile-trophy">
-         <img src="https://github-profile-trophy.vercel.app/?username=BouglaceMarouane&theme=onedark&margin-w=15&margin-h=15&title=MultiLanguage&title=Commits&title=Followers&title=Stars&title=Repositories&title=Experience&title=PullRequest&title=Contributions" alt="BouglaceMarouane GitHub Trophies" />
-      </a>
-   </p>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BouglaceMarouane&theme=tokyonight&no-frame=true&column=10&margin-w=10&title=Stars,Repositories,Commits,Followers,Experience,Issues,PullRequest,Reviews,MultiLanguage,Contributions" alt="trophies"/>
+</p>
+
 
 
 

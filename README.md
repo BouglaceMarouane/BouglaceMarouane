@@ -16,10 +16,11 @@
 <div align="center" style="margin-bottom: 20px;">
    <p>
       <a href="https://github.com/BouglaceMarouane/github-profile-trophy">
-         <img src="https://github-profile-trophy.vercel.app/?username=BouglaceMarouane&theme=onedark&margin-w=15&margin-h=15&title=-Issues" alt="BouglaceMarouane" />
+         <img src="https://github-profile-trophy.vercel.app/?username=BouglaceMarouane&theme=onedark&margin-w=15&margin-h=15&title=-Issues&title=Commits" alt="BouglaceMarouane" />
       </a>
    </p>
 </div>
+
 
 
 

@@ -13,7 +13,7 @@
 [![MasterHead](https://github.com/user-attachments/assets/1146ab68-d416-494f-9d41-5d1d99f39397)](https://BouglaceMarouane.io)
 
 <p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=BouglaceMarouane&theme=dracula&no-frame=true&column=8&margin-w=8&title=Stars,Repositories,Commits,Followers,Experience,Issues,PullRequest,Reviews,MultiLanguage,Contributions&wantAll=true" alt="trophies"/>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=BouglaceMarouane&theme=dracula&no-frame=true&column=8&margin-w=8&title=Stars,Repositories,Commits,Followers,Experience,PullRequest,Reviews,MultiLanguage,Contributions&wantAll=true" alt="trophies"/>
 </p>
 
 <h3 align="center">Connect with me:</h3>

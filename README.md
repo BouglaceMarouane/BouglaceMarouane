@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://hits.sh/github.com/BouglaceMarouane/">
-    <img alt="Hits" src="https://hits.sh/github.com/BouglaceMarouane.svg?style=for-the-badge&label=Visitors&extraCount=0"/>
+    <img alt="Visitors" src="https://hits.sh/github.com/BouglaceMarouane.svg?label=Visitors&color=blueviolet&labelColor=gray&style=plastic"/>
   </a>
 </p>
+
 
 <h3 align="center">Aspiring Mobile & Web Developer | 2nd Year Student at CMC RSK | ALX ProDev Front-End Student | Passionate About Tech and Innovation</h3>
 

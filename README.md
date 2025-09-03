@@ -3,8 +3,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://hits.sh/github.com/BouglaceMarouane.svg?view=today-total&color=blue" alt="Visitors"/>
+  <img src="https://api.countapi.xyz/hit/BouglaceMarouane.github/visits?style=plastic" alt="Visitor Counter"/>
 </div>
+
 
 
 <h3 align="center">Aspiring Mobile & Web Developer | 2nd Year Student at CMC RSK | ALX ProDev Front-End Student | Passionate About Tech and Innovation</h3>

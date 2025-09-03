@@ -3,9 +3,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://your-vercel-app.vercel.app/BouglaceMarouane/count.svg" />
+  <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg" />
 </div>
-
 
 <h3 align="center">Aspiring Mobile & Web Developer | 2nd Year Student at CMC RSK | ALX ProDev Front-End Student | Passionate About Tech and Innovation</h3>
 

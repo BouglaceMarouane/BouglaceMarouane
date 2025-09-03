@@ -3,10 +3,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://api.countapi.xyz/hit/BouglaceMarouane.github/visits?style=plastic" alt="Visitor Counter"/>
+  <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg" />
 </div>
-
-
 
 <h3 align="center">Aspiring Mobile & Web Developer | 2nd Year Student at CMC RSK | ALX ProDev Front-End Student | Passionate About Tech and Innovation</h3>
 

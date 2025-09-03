@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://hits.sh/github.com/BouglaceMarouane/">
-    <img alt="Visitors" src="https://hits.sh/github.com/BouglaceMarouane.svg?label=Visitors&color=blueviolet&labelColor=gray&style=plastic"/>
+    <img alt="Visitors" src="https://hits.sh/github.com/BouglaceMarouane.svg?label=👀 Visitors&color=teal&labelColor=black&style=for-the-badge"/>
   </a>
 </p>
 

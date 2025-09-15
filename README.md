@@ -56,10 +56,12 @@
 ---
 
   <h3>🧰 Languages and Tools</h3>
-  <p align="center" style="padding-right:10px">
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,qt,flask,sqlite,php,mysql,git,npm,github,linux,windows,dart,flutter,kotlin,figma,firebase,androidstudio,anaconda,sublime,vscode,visualstudio,pycharm,&theme=dark&perline=12"\>
-  </p>
+<p align="center" style="padding-right:10px">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,dart,kotlin,bootstrap,qt,flask,flutter,sqlite,mysql,firebase,git,github,npm,anaconda,vscode,pycharm,sublime,visualstudio,androidstudio,figma,linux,windows&theme=dark&perline=12" />
+  </a>
+</p>
+
       
 ---
 

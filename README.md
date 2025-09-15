@@ -58,7 +58,7 @@
   <h3>🧰 Languages and Tools</h3>
 <p align="center" style="padding-right:10px">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,bootstrap,qt,flask,sqlite,mysql,firebase,dart,flutter,kotlin,npm,git,github,anaconda,visualstudio,vscode,sublime,pycharm,androidstudio,figma,linux,windows&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,bootstrap,qt,flask,wordpress,sqlite,mysql,firebase,dart,flutter,kotlin,powershell,npm,git,github,replit,vercel,anaconda,visualstudio,vscode,sublime,pycharm,idea,androidstudio,figma,linux,windows&theme=dark&perline=12" />
   </a>
 </p>
 

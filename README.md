@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7611F7&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=✨+Hey+Friend!;+I'm+Marouane+Bouglace;+Welcome+to+my+GitHub+account;"/>
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg" />
-</div>
+</div> -->
 
 <h3 align="center">Aspiring Mobile & Web Developer | 2nd Year Student at CMC RSK | ALX ProDev Front-End Student | Passionate About Tech and Innovation</h3>
 
@@ -58,7 +58,7 @@
   <h3>🧰 Languages and Tools</h3>
 <p align="center" style="padding-right:10px">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,md,bootstrap,qt,flask,wordpress,sqlite,mysql,firebase,dart,flutter,kotlin,powershell,bash,npm,git,github,replit,vercel,anaconda,visualstudio,vscode,sublime,pycharm,idea,androidstudio,figma,linux,ubuntu,windows,stackoverflow,gmail,discord&theme=dark&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,md,bootstrap,qt,flask,wordpress,sqlite,mysql,firebase,dart,flutter,kotlin,powershell,bash,npm,git,github,replit,vercel,anaconda,visualstudio,vscode,sublime,pycharm,idea,androidstudio,figma,linux,ubuntu,windows,stackoverflow,gmail,discord&theme=dark&perline=12" />
   </a>
 </p>
 

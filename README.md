@@ -10,11 +10,12 @@
 
 <p align="center">Passionate creator exploring the intersection of mobile and web development, I love turning ideas into sleek, intuitive, and impactful digital experiences. Constantly experimenting, learning, and building, I aim to craft applications that inspire, connect, and solve real-world problems while collaborating with others to push the boundaries of technology.</p>
 
-<p align="center">
-    
-[![committers.top badge](https://user-badge.committers.top/morocco/BouglaceMarouane.svg)](https://user-badge.committers.top/morocco/BouglaceMarouane)
+<div align="center">
+  <a href="https://user-badge.committers.top/morocco/BouglaceMarouane">
+    <img src="https://user-badge.committers.top/morocco/BouglaceMarouane.svg" />
+  </a>
+</div>
 
-</p>
 
 [![MasterHead](https://github.com/user-attachments/assets/1146ab68-d416-494f-9d41-5d1d99f39397)](https://BouglaceMarouane.io)
 

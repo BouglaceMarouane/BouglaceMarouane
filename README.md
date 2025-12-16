@@ -2,16 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7611F7&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=✨+Hey+Friend!;+I'm+Marouane+Bouglace;+Welcome+to+my+GitHub+account;"/>
 </h1>
 
-[![committers.top badge](https://user-badge.committers.top/morocco/BouglaceMarouane.svg)](https://user-badge.committers.top/morocco/BouglaceMarouane)
-
-
-<!-- <div align="center">
+<div align="center">
   <img src="https://profile-counter.glitch.me/BouglaceMarouane/count.svg" />
-</div> -->
+</div>
 
 <h3 align="center">Aspiring Mobile & Web Developer | 2nd Year Student at CMC RSK | ALX ProDev Front-End Student | Passionate About Tech and Innovation</h3>
 
 <p align="center">Passionate creator exploring the intersection of mobile and web development, I love turning ideas into sleek, intuitive, and impactful digital experiences. Constantly experimenting, learning, and building, I aim to craft applications that inspire, connect, and solve real-world problems while collaborating with others to push the boundaries of technology.</p>
+
+<p align="center">
+[![committers.top badge](https://user-badge.committers.top/morocco/BouglaceMarouane.svg)](https://user-badge.committers.top/morocco/BouglaceMarouane)
+</p>
 
 [![MasterHead](https://github.com/user-attachments/assets/1146ab68-d416-494f-9d41-5d1d99f39397)](https://BouglaceMarouane.io)
 

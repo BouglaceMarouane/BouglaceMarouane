@@ -81,20 +81,14 @@
     </a>
   </p>
 
-<h3 align="center">💻 GitHub Profile Stats</h3>
-
+<h3 align="center">🔥 Streak Stats</h3>
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BouglaceMarouane&show_icons=true&include_all_commits=true&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=86400"
-    width="430"
-    alt="GitHub Stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=BouglaceMarouane&theme=dracula&hide_border=true" />
+</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BouglaceMarouane&layout=compact&langs_count=6&theme=dracula&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&cache_seconds=86400"
-    width="328"
-    alt="Top Languages"
-  />
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BouglaceMarouane&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
 
 ---
